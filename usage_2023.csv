@@ -1,4 +1,4 @@
-offering_id,quarter,quantity_initiated,time_spent,frequent_id,least_frequent_id
+offeringId,quarter,quantityInitiated,timeSpent,frequentId,leastFrequentId
 1,1,5,5,132,144
 1,2,10,10,132,144
 1,3,15,15,132,144
